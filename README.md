@@ -17,6 +17,6 @@ This project delves into the realm of hand gesture recognition using powerful de
 
 #### Peek at Test Dataset Results
 
-![test_results](image.png)
+![test_results](![Alt text](image.png))
 
 ---
