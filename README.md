@@ -17,6 +17,6 @@ This project delves into the realm of hand gesture recognition using powerful de
 
 #### Peek at Test Dataset Results
 
-![Alt text](image.png)
+![image](https://github.com/mo7amed7assan1911/Hand-Gesture-Recognition/assets/55090589/753a9547-6a78-4a9e-988b-23769aefd0db)
 
 ---
