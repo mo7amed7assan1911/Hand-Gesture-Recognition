@@ -7,16 +7,16 @@ You could run the notebook directly from [kaggle notebook](https://www.kaggle.co
 This project delves into the realm of hand gesture recognition using powerful deep learning techniques. Its primary aim is to proficiently detect and classify diverse hand gestures.
 
 #### Real-World Applications:
-🏡 Home Control Simplified: Command your smart home effortlessly with a simple wave. Lights, temperature, and more at your beck and call.
+* 🏡 Home Control Simplified: Command your smart home effortlessly with a simple wave. Lights, temperature, and more at your beck and call.
 
-🎮 Gaming Evolution: Bid farewell to conventional controllers. Immerse yourself in gaming with intuitive, hands-on controls.
+* 🎮 Gaming Evolution: Bid farewell to conventional controllers. Immerse yourself in gaming with intuitive, hands-on controls.
 
 #### Noteworthy Achievements:
-✨ Achieved a remarkable 100% accuracy.
-🎯 Secured a stellar 1 F1 score for all 24 classes.
+* ✨ Achieved a remarkable 100% accuracy.
+* 🎯 Secured a stellar 1 F1 score for all 24 classes.
 
 #### Peek at Test Dataset Results
 
-![test_results](![Alt text](image.png))
+![Alt text](image.png)
 
 ---
